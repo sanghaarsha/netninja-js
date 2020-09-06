@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+ul li{
+    list-style: circle;
+    padding: 10px;
+    margin: 5px;
+    background: rgb(209, 195, 195);
+    color: maroon;
+}
